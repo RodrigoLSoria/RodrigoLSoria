@@ -8,15 +8,18 @@
 
 Front-End: Crafting responsive, interactive user interfaces with React.js and modern JavaScript, CSS, and HTML.
 Back-End: Developing robust server-side applications using Node.js and managing data with MongoDB and Express.js.
+
 ☁️ Cloud & DevOps Skills:
 
 Azure & AWS: Deploying scalable cloud infrastructures.
 Docker & Kubernetes: Containerizing applications for efficient DevOps workflows.
 CI/CD: Implementing pipelines with Azure DevOps for consistent and reliable software delivery.
+
 🛠️ Proactive Builder:
 
 IaC: Structuring secure, maintainable infrastructures with Terraform.
 Monitoring: Ensuring system reliability and performance with Prometheus and Grafana.
+
 🔗 Connect with Me:
 Looking for a Full Stack Developer who can seamlessly integrate front and back-end operations? You've found your guy. Check out my repos to see my work in action. For collaboration or inquiries, ping me here or at rodrigolopezsoria@gmail.com.
 
