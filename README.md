@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate Web Developer with DevOps experience from Spain</h3>
 <p>
-I love problem-solving, bug fixing, and streamlining processes for maximum efficiency.  I find fulfillment and joy in programming and am particularly drawn to the realms of entrepeneurship. Currently, I'm on a journey of learning Python. 🔥
+I love problem-solving, bug fixing, and streamlining processes for maximum efficiency.  I find fulfillment and joy in programming and am particularly drawn to the realms of entrepeneurship. Currently, I'm on a journey of learning AWS. 🔥
 </p>
 
 <h3 align="left">Find me:</h3>
